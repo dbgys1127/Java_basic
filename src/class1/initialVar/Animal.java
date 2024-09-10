@@ -1,6 +1,4 @@
-package initialVar;
-
-import java.util.List;
+package class1.initialVar;
 
 public class Animal {
     String name; // 참조형 - 초기화 하지 않음

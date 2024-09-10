@@ -1,4 +1,4 @@
-package reference.clazz;
+package class1.reference.clazz;
 
 public class Book {
     public String title;

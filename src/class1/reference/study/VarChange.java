@@ -1,6 +1,6 @@
-package reference.study;
+package class1.reference.study;
 
-import reference.clazz.Book;
+import class1.reference.clazz.Book;
 
 public class VarChange {
     public static void main(String[] args) {

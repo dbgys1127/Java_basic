@@ -1,4 +1,4 @@
-package initialVar;
+package class1.initialVar;
 
 import java.util.ArrayList;
 import java.util.Comparator;

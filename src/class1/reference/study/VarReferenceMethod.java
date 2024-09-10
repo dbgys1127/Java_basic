@@ -1,6 +1,6 @@
-package reference.study;
+package class1.reference.study;
 
-import reference.clazz.Book;
+import class1.reference.clazz.Book;
 
 // 메소드 호출 시 파라미터로 값을 전달하는 것은 변수에 값을 대입하는 것과 같다.
 // 이때, 기본형 파라미터 전달은 실제 값을 전달한다.
